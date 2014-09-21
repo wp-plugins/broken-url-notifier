@@ -1,4 +1,5 @@
 === Broken Url Notifier ===
+Contributors: varunms
 Author URI: http://varunsridharan.in/
 Plugin URL: https://wordpress.org/plugins/broken-link/
 Donate link: http://varunsridharan.in/
